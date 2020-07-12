@@ -3,6 +3,6 @@
 matplotlib == 2.1.1
 nltk == 3.4
 pandas == 0.22.0
-requests == 2.18.4
+requests == 2.20.0
 scikit_learn == 0.23.1
 yellowbrick == 1.0.1
